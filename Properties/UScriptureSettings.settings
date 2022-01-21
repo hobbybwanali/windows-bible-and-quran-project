@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsFile CurrentProfile="(Default)" GeneratedClassNamespace="UnityScriptures.Properties" GeneratedClassName="UScriptureSettings" xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings>
+    <Setting Name="FavouriteChapters" Type="System.Collections.Specialized.StringCollection" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FavouriteVerses" Type="System.Collections.Specialized.StringCollection" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Font" Type="System.Drawing.Font" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Trebuchet MS, 12pt</Value>
+    </Setting>
+    <Setting Name="LaunchOnStart" Type="System.Boolean" Scope="User" Roaming="false">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="lost" Type="System.Collections.Specialized.StringCollection" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
